@@ -1,16 +1,14 @@
-## Hi there 👋
+# Jordan Finn, BS (he/him)
+## Software Engineer
 
-<!--
-**jordan-m-finn/jordan-m-finn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+Hello! I am Jordan Finn, a Software Engineer and student at UC Irvine studying Computer Science, with a passion for user focused finance. I have experience in multiple technical fields and now focused on working behind the scenes.
 
-Here are some ideas to get you started:
+### Education
+- **B.Sc. in Computer Science (Anticipated June 2026)** 
+- **A.Sc. in Computer Science**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Social
+- [LinkedIn](https://linkedin.com/in/jordan-finn)
+
+Feel free to connect with me on LinkedIn to stay updated on my latest projects and insights!

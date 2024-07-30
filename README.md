@@ -2,7 +2,7 @@
 ## Ready To Contribute/Intern
 
 ### About Me
-Hello! I am Jordan Finn, a Software Engineer and student at UC Irvine studying Computer Science, with a passion for user focused finance. I have experience in multiple technical fields and now focused on working behind the scenes.
+Hello! I am Jordan Finn, a student at UC Irvine studying Computer Science, with a passion for user focused finance. I have experience in multiple technical fields and now focused on working behind the scenes.
 
 ### Education
 - **B.Sc. in Computer Science (Anticipated June 2026)** 

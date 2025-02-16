@@ -1,5 +1,5 @@
 # Jordan Finn, BS (he/him)
-## Ready To Contribute/Intern
+## Ready To Contribute/Intern in Web3
 
 ### About Me
 Hello! I am Jordan Finn, a student at UC Irvine studying Computer Science, with a passion for user focused finance. I have experience in multiple technical fields and now focused on working behind the scenes.
